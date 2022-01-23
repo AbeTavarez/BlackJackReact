@@ -1,0 +1,20 @@
+
+.sb-container {
+    border: 1px solid black;
+    background-color: brown;
+    width: 300px;
+    color: aliceblue;
+    margin-top: 20px;
+}
+
+.sb-container > h3 {
+    padding: 20px;
+}
+
+.player {
+    padding: 20px;
+}
+
+.computer {
+    padding: 20px;
+}
